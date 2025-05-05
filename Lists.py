@@ -7,6 +7,6 @@ print(len(marks))
 
 student=["Karan",95.4,17,"Delhi"]
 print(student[0])
-student[0]="Arjun"
+student[0]="Arjun" #Lists are mutable
 print(student)
 print(student[4])
