@@ -1,3 +1,6 @@
+""" Print output for:
+A=5 & G=M
+A=2 & G=F """
 A=int(input("A: "))
 G=input("M/F: ")
 if((A==1 or A==2)and G=="M"):
