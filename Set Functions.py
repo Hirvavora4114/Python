@@ -7,6 +7,6 @@ collection.add((1,2,3))
 
 collection.remove(2) #removes an element
 #collection.remove(7) #error
-print(collection.pop()) # displays a random 
+print(collection.pop()) # displays a random value
 collection.clear() # empties the set
 print(len(collection))
