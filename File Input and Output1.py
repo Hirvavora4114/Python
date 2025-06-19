@@ -1,0 +1,5 @@
+#f=open("demo.txt","w")
+#f.write("I want to learn JavaScript tomorrow.123")
+f=open("demo.txt","a")
+f.write("\nAfter that nodejs")
+f.close()
