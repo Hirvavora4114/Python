@@ -1,0 +1,7 @@
+#f=open("demo.txt","r+")
+#f=open("demo.txt","w+")
+f=open("demo.txt","a+")
+#f.write("abc")
+print(f.read())
+f.write("abc")
+f.close()
